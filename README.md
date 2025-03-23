@@ -28,18 +28,19 @@ It targets **weak nonce generation vulnerabilities** and attempts to recover the
 
 ---
 
-## 📦 Installation  
+## 📦 Installation
 ```bash
 git clone https://github.com/k3yb0ard/DSA-Nonce-Bruteforcer.git  
 cd DSA-Nonce-Bruteforcer  
 pip install -r requirements.txt  
 ```
-##🔹Usage
+## 🔹Usage
+
 1. Clone the repository:
    ```sh
    python brute_force.py
 
-##🔹 Performance Considerations
+## 🔹 Performance Considerations
 High CPU Usage: The script utilizes all available CPU cores, leading to 100% utilization.
 
 Thermal Throttling: Extended usage may cause overheating on inadequately cooled systems.
@@ -48,6 +49,6 @@ Optimizing Performance:
 
 Adjust the worker process count to balance speed and CPU load.
 
-##🔹 Disclaimer
+## 🔹 Disclaimer
 This script is intended for educational and ethical hacking purposes only.
 Unauthorized use against real-world systems is strictly prohibited.
