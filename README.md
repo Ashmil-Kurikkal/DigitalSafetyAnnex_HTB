@@ -21,10 +21,8 @@ It targets **weak nonce generation vulnerabilities** and attempts to recover the
 ## 🛠️ Requirements  
 - Python 3.x  
 - **Multiprocessing module** (built into Python)  
-- `pyfiglet` (for ASCII art banners)  
-- `colorama` (for colored CLI output, optional)  
-
-> **Note:** The script will run even if `colorama` is missing, but without color formatting.  
+- `pyfiglet`
+- `colorama`
 
 ---
 
