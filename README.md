@@ -33,7 +33,7 @@ It targets **weak nonce generation vulnerabilities** and attempts to recover the
 git clone https://github.com/k3yb0ard/DSA-Nonce-Bruteforcer.git  
 cd DSA-Nonce-Bruteforcer  
 pip install -r requirements.txt  
-
+```
 ##🔹Usage
 1. Clone the repository:
    ```sh
