@@ -1,14 +1,11 @@
 # 🛠️ DSA Nonce Brute-Forcer (CPU Multiprocessing)
 
-**‼️SCRIPT WON'T BE SHARED AS LONG AS THE CHALLENGE IS ACTIVE ON HTB‼️**
+
 ## 🚀 Overview  
 This script is designed to brute-force the **nonce (k)** used in a **DSA (Digital Signature Algorithm)** signing process, leveraging **multiprocessing** for faster computation.  The script expects a known p, q, g and a known (r,s) value.
 
 It targets **weak nonce generation vulnerabilities** and attempts to recover the **private key** using a brute-force approach.  
 
-> **Platform:** Hack The Box (HTB)  
-> **Challenge:** Digital Safety Annex  (Active)
-> **SCRIPT WON'T BE SHARED AS LONG AS IT IS ACTIVE**
 ---
 
 ## 🔍 Features  
